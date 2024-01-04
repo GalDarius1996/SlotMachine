@@ -1,0 +1,15 @@
+{
+  "name": "versioningdemo",
+  "version": "2.6.8",
+  "description": "This is project of slot machine",
+  "main": "app.js",
+  "scripts": {
+    "test": "good"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "author": "GDM",
+  "license": "MIT"
+}
